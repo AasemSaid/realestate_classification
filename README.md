@@ -98,11 +98,7 @@ POST /process_pdf/
 - Enhance confidence scoring for classifications.
 - Support batch processing of multiple PDFs.
 
-## License
-
-MIT License
-
 ---
 
-**Developed by:** AI Engineer | Specialized in Computer Vision 🚀
+**Developed by:** Aasem Said AI Engineer | Specialized in Computer Vision 🚀
 
