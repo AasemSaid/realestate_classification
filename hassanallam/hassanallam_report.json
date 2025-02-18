@@ -1,0 +1,27 @@
+[
+    {
+        "image_path": "hassanallam\\hassanallam_1.png",
+        "image_extension": "png",
+        "description": "the new condos at the corner of the city"
+    },
+    {
+        "image_path": "hassanallam\\hassanallam_2.png",
+        "image_extension": "png",
+        "description": "a rendering of the proposed apartment building"
+    },
+    {
+        "image_path": "hassanallam\\hassanallam_3.png",
+        "image_extension": "png",
+        "description": "the floor plan of a two bedroom apartment"
+    },
+    {
+        "image_path": "hassanallam\\hassanallam_4.png",
+        "image_extension": "png",
+        "description": "a model of a residential area in the city"
+    },
+    {
+        "image_path": "hassanallam\\hassanallam_5.png",
+        "image_extension": "png",
+        "description": "the site plan for the new resort"
+    }
+]
